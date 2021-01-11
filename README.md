@@ -1,4 +1,4 @@
-# OpenWeatherAPI
+# OpenWeatherAPI (class assignment)
 ## Description
 This repository contains Python code to pull the minimum and maximum temperatures from select cities (decided by instructor), using the OpenWeatherAPI. Features included in this code are:
 - API call from OpenWeatherAPI
